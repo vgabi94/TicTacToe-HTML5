@@ -1,0 +1,30 @@
+body {
+	background-color: #663333; /*#A52A2A;*/
+}
+
+#display {
+	border: 1px solid #660000;
+	background-color: white;
+	padding-left: 0;
+	padding-right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;	
+}
+
+#history {
+	position: absolute;
+	margin-top: 0;
+	color: aliceblue;
+}
+
+#console {
+	display: block;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 10%;
+	font-size: 22px;
+	text-align: center;
+	color: aliceblue;
+}
